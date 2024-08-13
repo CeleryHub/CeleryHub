@@ -33,6 +33,6 @@ if table.find(SupportedGames, game.PlaceId) then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/CeleryHub/CeleryHub/main/scripts/cxmbxtwxrrixrs.lua"))()
     end
     if game.PlaceId == SupportedGames[3] then
-        loadstring(game:HttpGet("https://gist.githubusercontent.com/flamingboy44/df7c68348ff74b54ce09b0dfc22ed7df/raw/5b7456ceb24b2e353d59481c9c335bf64874caaa/Nani%253F!%253F!%253F!%253F.lua"))()
+        loadstring(game:HttpGet("https://gist.githubusercontent.com/flamingboy44/5551f94f6b3e90520c988dcb224a90f9/raw/c28bfc04644da148228b1fd250aa28cfa1ff8d09/Hyv%25C3%25A4%2520M%25E1%25BA%25A3nh%2520th%25E1%25BB%25A9%2520hai%2520%25E0%25A4%25B2%25E0%25A4%25BF%25E0%25A4%25AA%25E0%25A4%25BF))()
     end
 end
